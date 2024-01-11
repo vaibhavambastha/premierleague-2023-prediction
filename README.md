@@ -1,4 +1,4 @@
-# Premier League Prediction Model 2023
+# Premier League Prediction Model
 
 As of January, 2024 half of the 2023/2024 season has been played. Utilizing match statistics of all matches played so far in the season, I constructed a prediction model for the remaining matches in the season. Match outcomes were predicted utilizing match statistics scraped from the open-source website: [https://fbref.com/en/comps/9/Premier-League-Stats](https://fbref.com/en/comps/9/Premier-League-Stats).
 
